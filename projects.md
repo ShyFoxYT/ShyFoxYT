@@ -5,7 +5,7 @@ Here you have a overview over my current, active, canceled, done and no-support 
 - Private FV task
 
 ## Active
-- [FurChat](../../FurChat)
+- [FurChat](https://github.com/ShyFoxYT/FurChat)
 - Driving Simulator
 
 ## Canceled
