@@ -5,7 +5,7 @@ Here you have a overview over my current, active, canceled, done and no-support 
 - Private FV task
 
 ## Active
-- FurChat
+- [FurChat](../FurChat/readme.md)
 - Driving Simulator
 
 ## Canceled
