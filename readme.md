@@ -1,5 +1,5 @@
 # Welcome to my Profile!
-![ProfilePicture](https://avatars.githubusercontent.com/u/50746625?s=48&v=4)
+![ProfilePicture](https://avatars.githubusercontent.com/u/50746625?v=4)
 
 Here I will post my open source files and codes for my games, apps and more.
 
