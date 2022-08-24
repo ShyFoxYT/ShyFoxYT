@@ -2,10 +2,9 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- Private FV task
+- [FurChat](https://github.com/ShyFoxYT/FurChat)
 
 ## Active
-- [FurChat](https://github.com/ShyFoxYT/FurChat)
 - [Driving Simulator](https://github.com/ShyFoxYT/Driving-Simulator)
 
 ## Canceled
