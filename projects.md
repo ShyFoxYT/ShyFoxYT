@@ -3,6 +3,7 @@ Here you have a overview over my current, active, canceled, done and no-support 
 
 ## Current:
 - [FluffyGuard Discord Bot](https://github.com/ShyFoxYT/discordbotfluffyguard)
+  - Fixing `!view`
 
 ## Active
 - [Driving Simulator](https://github.com/ShyFoxYT/Driving-Simulator)
