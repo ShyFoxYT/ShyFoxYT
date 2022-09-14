@@ -8,7 +8,7 @@ Here you have a overview over my current, active, canceled, done and no-support 
 ## Active
 - [Driving Simulator](https://github.com/ShyFoxYT/Driving-Simulator)
 
-## Paused:
+## Partly-paused:
 - [FurChat](https://github.com/ShyFoxYT/FurChat)
 
 ## Canceled
