@@ -2,17 +2,18 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- [FluffyGuard Discord Bot](https://github.com/ShyFoxYT/discordbotfluffyguard)
-  - Fixing `!view`
+- [FlexFlyOS](https://github.com/FlexFlyOS)
 
 ## Active
-- [Driving Simulator](https://github.com/ShyFoxYT/Driving-Simulator)
+- [FluffyGuard Discord Bot](https://github.com/ShyFoxYT/discordbotfluffyguard)
+  - Fixing `!view`
 
 ## Partly-paused:
 - [FurChat](https://github.com/ShyFoxYT/FurChat)
 
 ## Canceled
 - Stop Suicide App (Repo soon)
+- Driving Simulator
 
 ### No-Support
 - KBrowse & ShyBrowse
