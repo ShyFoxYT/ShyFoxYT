@@ -12,3 +12,9 @@ I think this were enough about me so feel free to scroll through everything.
 
 ## What I am currently working on
 You can read all about my projects in [this file](/projects.md)
+
+## Want to know about my setup?
+I made a md file with my setup specs. [Read more](/mysetup.md)
+
+## Want to help?
+Visit my [Ko-Fi](https://ko-fi.com/shyfoxthefox)
