@@ -2,11 +2,10 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- [FlexFlyOS](https://github.com/FlexFlyOS)
+- ResinMagic
 
 ## Active
-- [FluffyGuard Discord Bot](https://github.com/ShyFoxYT/discordbotfluffyguard)
-  - Fixing `!view`
+- [FurChat](https://github.com/ShyFoxYT/FurChat)
 
 ## Partly-paused:
 - [FurChat](https://github.com/ShyFoxYT/FurChat)
@@ -14,6 +13,7 @@ Here you have a overview over my current, active, canceled, done and no-support 
 ## Canceled
 - Stop Suicide App (Repo soon)
 - Driving Simulator
+- FlexFlyOS
 
 ### No-Support
 - KBrowse & ShyBrowse
