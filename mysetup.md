@@ -2,7 +2,7 @@
 
 ## Main Setup
 #### PC Specs
-- CPU: AMD Ryzen 3 3100 4x@3.85GHz
+- CPU: AMD Ryzen 7 5600X 
 - GPU: KFA2 GeForce GTX 1650
 - RAM: G.Skill Aegis 2x8GB DDR4 @ 3200MHz
 - MB: Gigabyte B450M S2H
@@ -21,17 +21,23 @@
 
 ## Mobile
 #### Laptop Informations
-- Manufactor: Teclast
-- Model: F15S
-- Bought: Mid2020
+- Manufactor: Apple
+- Model: MacBook Air M2
+- Bought: Early 2023
 #### Specs
-- CPU: Intel Celeron N3350 @1.1GHz
-- GPU: Intel HD Graphics 500
-- Ram: 8GB Generic
-- M.2: Intenso 120GB SATA II
-- OS: Windows 11 Home OEM
-If you ask how I develop on this, I am mostly using Remote Desktop to my Main PC.
+- CPU: Apple M2
+- GPU: Apple M2
+- Ram: 8GB
+- Drive: 256GB
+- OS: MacOs 13.4 Ventura
 
 ## Servers
-- Zap-Hosting vServer 4€ Plan
-- (Soon) PawHost KVM 
+- 2x Zap-Hosting vServer 4€ Plan
+- 24fire Xenon KVM
+
+### 24fire Server
+- CPU: Intel(R) Xeon(R) CPU E5-2690 v2 @ 3.00GHz
+- Cores: 12
+- Ram: 16GB
+- SSD: 200GB
+- Internet: 2GB/s Up/Down
