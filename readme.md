@@ -12,6 +12,8 @@ I think this were enough about me so feel free to scroll through everything.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyFoxYT&hide=PLpgSQL&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![ShyFox's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShyFoxYT&show_icons=true&count_private=true)
+
 
 ## What I am currently working on
 You can read all about my projects in [this file](/projects.md)
