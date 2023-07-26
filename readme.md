@@ -10,6 +10,9 @@ I developed my own Browser by scratch when I was 11 since then I learned alot. F
 
 I think this were enough about me so feel free to scroll through everything.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyFoxYT&hide=PLpgSQL&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## What I am currently working on
 You can read all about my projects in [this file](/projects.md)
 
