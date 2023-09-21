@@ -3,7 +3,7 @@
 ## Main Setup
 #### PC Specs
 - CPU: AMD Ryzen 7 5600X 
-- GPU: KFA2 GeForce GTX 1650
+- GPU: MSI GeForce RTX 3060 VENTUS2x
 - RAM: G.Skill Aegis 2x8GB DDR4 @ 3200MHz
 - MB: Gigabyte B450M S2H
 - PSU: 650W Aerocool
@@ -13,9 +13,9 @@
 - OS: Windows 11 Pro & Linux Ubuntu 22.10
 #### Hardware
 - Monitor 1: Acer (TBU)
-- Monitor 2: BenQ (TBU)
+- Monitor 2: KOORUI (TBU)
 - Mice: Logitech G502 Hero
-- KeyBoard: Logitech G213
+- KeyBoard: SteelSeries Apex3 & Logitech MX keys mini
 - Mic: Rode NT1-A
 - Mixer: Behringer Xenyx 502
 
@@ -32,7 +32,7 @@
 - OS: MacOs 13.4 Ventura
 
 ## Servers
-- 2x Zap-Hosting vServer 4€ Plan
+- 1x Zap-Hosting vServer 4€ Plan
 - 24fire Xenon KVM
 
 ### 24fire Server
