@@ -4,13 +4,13 @@
 #### PC Specs
 - CPU: AMD Ryzen 7 5600X 
 - GPU: MSI GeForce RTX 3060 VENTUS2x
-- RAM: G.Skill Aegis 2x8GB DDR4 @ 3200MHz
+- RAM: CORSAIR VENGEANCE PRO 2x16GB DDR4 @ 3200MHz
 - MB: Gigabyte B450M S2H
 - PSU: 650W Aerocool
 - M.2: 500GB Crucial CT500P3SSD8
 - HDD: 4TB WD Green
-- HDD: (Linux) 240GB Seagate
-- OS: Windows 11 Pro & Linux Ubuntu 22.10
+- HDD: (Linux) 240GB Patriot Burst
+- OS: Windows 11 Pro & Linux Ubuntu 23.10
 #### Hardware
 - Monitor 1: Acer (TBU)
 - Monitor 2: KOORUI (TBU)
@@ -32,12 +32,11 @@
 - OS: MacOs 13.4 Ventura
 
 ## Servers
-- 1x Zap-Hosting vServer 4€ Plan
-- 24fire Xenon KVM
+- 1x PawHost Xenon GOLD KVM
 
-### 24fire Server
-- CPU: Intel(R) Xeon(R) CPU E5-2690 v2 @ 3.00GHz
-- Cores: 12
+### PawHost server
+- CPU: Intel(R) Xeon(R) GOLD
+- Cores: 4
 - Ram: 16GB
 - SSD: 200GB
-- Internet: 2GB/s Up/Down
+- Internet: 1GB/s Up/Down
