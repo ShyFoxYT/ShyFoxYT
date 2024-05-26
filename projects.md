@@ -2,21 +2,21 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- Ellie (Discord Bot)
+- Business Tycoon
 
 ## Active
-- [FurChat](https://github.com/ShyFoxYT/FurChat)
 
 ## Partly-paused:
 - [FurChat](https://github.com/ShyFoxYT/FurChat)
 
-## Paused by Customer:
+## Canceled by Customer:
 - ResinMagic
 
 ## Canceled
 - Stop Suicide App (Repo soon)
 - Driving Simulator
 - FlexFlyOS
+- Ellie (Discord Bot)
 
 ### No-Support
 - KBrowse & ShyBrowse
