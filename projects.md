@@ -2,18 +2,19 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- Business Tycoon
+- Private Customer
 
 ## Active
+- Business Tycoon
+- easyCSS
 
-## Partly-paused:
+## Awaiting more time:
 - [FurChat](https://github.com/ShyFoxYT/FurChat)
 
 ## Canceled by Customer:
 - ResinMagic
 
 ## Canceled
-- Stop Suicide App (Repo soon)
 - Driving Simulator
 - FlexFlyOS
 - Ellie (Discord Bot)
