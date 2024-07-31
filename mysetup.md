@@ -10,7 +10,7 @@
 - M.2: 500GB Crucial CT500P3SSD8
 - HDD: 4TB WD Green
 - HDD: (Linux) 240GB Patriot Burst
-- OS: Windows 11 Pro & Linux Ubuntu 23.10
+- OS: Windows 11 Pro & Linux Ubuntu 24.20
 #### Hardware
 - Monitor 1: Acer (TBU)
 - Monitor 2: KOORUI (TBU)
@@ -29,10 +29,20 @@
 - GPU: Apple M2
 - Ram: 8GB
 - Drive: 256GB
-- OS: MacOs 13.4 Ventura
+- OS: MacOs 14 Beta 1 Sonoma
 
 ## Servers
-- 1x PawHost Xenon GOLD KVM
+- 2x PawHost Xenon GOLD KVM
+- 1x Local
+
+### Local
+- CPU: Intel(R) Celeron (R)
+- Cores: 4
+- Ram: 8GB DDR3
+- SSD: 256GB Patriot Burst
+- HDD: 500GB Seagate
+- Internet: Not available. Localaddress only.
+
 
 ### PawHost server
 - CPU: Intel(R) Xeon(R) GOLD
@@ -40,3 +50,12 @@
 - Ram: 16GB
 - SSD: 200GB
 - Internet: 1GB/s Up/Down
+- MainServer
+- Deployment server
+
+- CPU: Intel(R) Xeon(R) GOLD
+- Cores: 2
+- RAM 8GB
+- SSD:100GB
+- Internet: 300MB/s Up/Down
+- USAGE: PiHole and PiVPN
