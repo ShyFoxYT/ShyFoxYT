@@ -2,7 +2,7 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- [MediaSense](github.com/ShyFoxYT/MediaSense)
+- [MediaSense](https://github.com/ShyFoxYT/MediaSense)
 
 ## Active
 - easyCSS
