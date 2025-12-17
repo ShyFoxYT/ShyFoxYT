@@ -22,4 +22,4 @@ You can read all about my projects in [this file](/projects.md)
 I made a md file with my setup specs. [Read more](/mysetup.md)
 
 ## Want to help?
-Visit my [Ko-Fi](https://ko-fi.com/shyfoxthefox)
+Visit my [wishlist](https://shyfox.de/wish)
