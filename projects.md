@@ -2,17 +2,14 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- Private Customer
+- [MediaSense](github.com/ShyFoxYT/MediaSense)
 
 ## Active
-- Business Tycoon
 - easyCSS
 
 ## Awaiting more time:
 - [FurChat](https://github.com/ShyFoxYT/FurChat)
 
-## Canceled by Customer:
-- ResinMagic
 
 ## Canceled
 - Driving Simulator
@@ -22,4 +19,3 @@ Here you have a overview over my current, active, canceled, done and no-support 
 ### No-Support
 - KBrowse & ShyBrowse
 ## Done
-- Private FV tasks
