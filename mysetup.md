@@ -24,25 +24,25 @@
 ## Mobile
 #### Laptop Informations
 - Manufactor: Apple
-- Model: MacBook Air M2
-- Bought: Early 2023
+- Model: MacBook Pro 14' M5
+- Bought: June 2026
 #### Specs
-- CPU: Apple M2
-- GPU: Apple M2
-- Ram: 8GB
-- Drive: 256GB
-- OS: MacOs 14 Sonoma
+- CPU: Apple M5
+- GPU: Apple M5
+- Ram: 24GB
+- Drive: 1TB
+- OS: MacOs 26 Tahoe
 
 ## Servers
 - 2x PawHost Xenon GOLD KVM
 - 1x Local
 
 ### Local
-- CPU: Intel(R) Celeron (R)
-- Cores: 4
-- Ram: 8GB DDR3
-- SSD: 256GB Patriot Burst
-- HDD: 500GB Seagate
+- Apple MacMini
+- CPU: M4
+- Ram: 16GB
+- SSD: 1TB Built in
+- External: 2TB USB-C SSD
 - Internet: Not available. Localaddress only.
 
 
