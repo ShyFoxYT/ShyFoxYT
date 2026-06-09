@@ -2,7 +2,7 @@
 Here you have a overview over my current, active, canceled, done and no-support projects.
 
 ## Current:
-- [MediaSense](https://github.com/ShyFoxYT/MediaSense)
+- 
 
 ## Active
 - easyCSS
@@ -12,9 +12,7 @@ Here you have a overview over my current, active, canceled, done and no-support 
 
 
 ## Canceled
-- Driving Simulator
-- FlexFlyOS
-- Ellie (Discord Bot)
+- [MediaSense](https://github.com/ShyFoxYT/MediaSense)
 
 ### No-Support
 - KBrowse & ShyBrowse
